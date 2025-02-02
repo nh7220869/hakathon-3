@@ -107,7 +107,7 @@ export function Featured() {
         </div>
 
         {/* Sort By Price Section */}
-        <Link href={'/displayprice'} aria-label="Sort products by price">
+        <Link href={'/diplayprice'} aria-label="Sort products by price">
           <div className="mt-10">
             <hr className="border-gray-300" />
             <h1 className="font-semibold flex text-[9px] lg:text-[12px] justify-between items-center mt-1">
